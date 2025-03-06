@@ -140,7 +140,8 @@ For more information about DMARC, use the following resources:
 ## Use the Microsoft 365 admin center to add DMARC TXT records for \*.onmicrosoft.com domains in Microsoft 365
 
 1. In the Microsoft 365 admin center at <https://admin.microsoft.com>, select **Show all** \> **Settings** \> **Domains**. Or, to go directly to the **Domains** page, use <https://admin.microsoft.com/Adminportal/Home#/Domains>.
-
+> [!NOTE]
+>  GCC High would reach the Microsoft 365 admin center at <https://portal.office365.us/adminportal> Or, to go directly to the **Domains** page, use <https://portal.office365.us/adminportal/home#/Domains>
 2. On the **Domains** page, select the \*.onmicrosoft.com domain from the list by clicking anywhere in the row other than the check box next to the domain name.
 
 3. On the domain details page that opens, select the **DNS records** tab.
